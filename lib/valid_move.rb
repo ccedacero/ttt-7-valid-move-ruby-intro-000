@@ -10,4 +10,5 @@ if index >= 0 && index <= 8
 elsif board[index] == '' || board[index] == ' '
 return false
 end
+return true
 end
