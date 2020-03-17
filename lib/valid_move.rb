@@ -6,3 +6,4 @@ if index >= 0 && index <= 8
 elsif
 return false
 end
+end
