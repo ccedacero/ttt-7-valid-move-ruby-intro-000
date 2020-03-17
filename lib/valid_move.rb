@@ -6,4 +6,5 @@ if index >= 0 && index <= 8
 else
 return false
 end
+return false
 end
