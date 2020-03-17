@@ -4,4 +4,5 @@ def valid_move?(board,indx)
 if index >= 0 && index <= 8
   return true;
 end
+return false
 end
