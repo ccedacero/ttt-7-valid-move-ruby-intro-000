@@ -6,5 +6,4 @@ if index >= 0 && index <= 8 && board[index] == "" || board[index] == " "
 else
 return false
 end
-return false
 end
